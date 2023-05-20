@@ -1,0 +1,42 @@
+greenery:
+
+  outputs:
+    dbt_sun:
+      type: postgres
+      threads: 1
+      host: localhost
+      port: 5432
+      user: postgres
+      pass: "{{ env_var('DBT_ENV_SECRET_PG_PASSWORD') }}"
+      dbname: greenery
+      schema: dbt_sun
+
+    prod:
+      type: postgres
+      threads: 1
+      host: localhost
+      port: 5432
+      user: postgres
+      pass: "{{ env_var('DBT_ENV_SECRET_PG_PASSWORD') }}"
+      dbname: greenery
+      schema: prod
+
+    dbt_sun_bigquery:
+      type: bigquery
+      method: service-account
+      project: lateral-boulder-384606
+      dataset: dbt_sun
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/00-bootcamp-project/lateral-boulder-384606-6346d7951129.json
+      location: asia-southeast1
+
+    prod_bigquery:
+      type: bigquery
+      method: service-account
+      project: lateral-boulder-384606
+      dataset: deb_bootcamp
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/00-bootcamp-project/lateral-boulder-384606-6346d7951129.json
+      location: asia-southeast1
+
+  target: dbt_sun_bigquery

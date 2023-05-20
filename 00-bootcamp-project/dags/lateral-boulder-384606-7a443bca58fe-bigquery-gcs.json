@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lateral-boulder-384606",
+  "private_key_id": "7a443bca58fe9331b39c8636dde347f0f8ef7577",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+KotTF7etYx77\niDL2+dVvhrJDlcMUpHPNo6YLSJG7hx9D+Zb0Dt5Kb2vnK4MNvAg8f8IAwmprro4l\nEf16xTYZjz5XqnO8xGfQwRoYmMjLGmxYCZAd+hvzg+jfhLlUyTyDk6tUBQzH1qUo\nwES1ACuK/1uTLWW+ifMVIV9YIBOeqUulDTa8E036Agnn8pzv57kwNcnTTAZ+wddG\niBwINpYxUh2YmaOStmZGcxGKxk7MhS7K7fbi4dDiFLWIM970ynAp2N/2n5BaNmFQ\niZt7QB+z94MooI7iqeLgwqm4lOAZ80Varmy7p2jTmnG/ZjpaPXCM4rPQ7tNEZawu\n0XDUtf53AgMBAAECgf8aXsvzOda+tIAXYUuv8/UlAgi2Vo42zpdAbPEZn3aWCqbL\nRlEohudMaycLZ31E6k46FX1RnaQkSpBrk5MS80YNRU/f2EM0agf7asuznXw6re9Y\nRfs2LPizTBd+52jL2RwLIu8fN5QOIjXE8OSWNO/U1pRcVG9HfNm4lGgkUE5oMdSY\ngP4C/xRJOva+nmd0A0JcrI+WCAyzBTZVzDXSipO0LJkZ4NevGxdcC0QbIP6KCxIw\nAd0VC3Y7drCWKBzlUOO5DNFQAanNvbY1e/N3Er72a17JikjX9IqfHE+LKIgKgdqJ\n1DdQMsne5oBFFlxLVczdTrpbXxryeGVvt+YnU8kCgYEA376CFCXQPxEjQTPr9fPp\ndvtldtkq/sq9fG8+tqsvkzjcueMaj1klnk0qscW9NonMekfzOEGU82/OSZetgU8h\nCf6/xEmOpAxxhqne/gMG9D6bLsmfsUS/ur03cslHI6IOopR2htBNnd34HB8U8F0C\nRLoJjV2nmNUCbXYXfrWkcAkCgYEA2ZTPAgYeWJdQXLcJL3rKP4EDW+sKav87E8Uv\n1EWUW1f/1Rqf77gioI++dFJpuU1Eh5RxXKH2AxxG+82TWanHytianng/+H1U99tW\niDOKk8N9/FhwH1tIu2qPTw/6RAtyA8wc0t2LiY9QVGX9a0sk2w9d5FztXDGMCU9W\nLLwVmn8CgYEAtTj+7wa5p3tgDL3bTvlijeaNhjfb5UedNp58M0RwYlRaI43Yw2a3\nW4KxJBA/c18laZ3BWD12Qb67XUwnUmcfIZNfC8Nwb1tM0H/ih+c3yLi0xK62U8SV\nbtE3iheRMUFfjTumzQcG9ukEvvJF6XHMFpKAjinfR6CwOKy/1veU2tECgYEAhtZn\naxOrnq83CB4OPTRVPgGPuVjxfdlqHRhoSZ5NEEZ6ru/vCboNC3/JQYEJL+Kog3UE\nw6lDMi5F9yoxFLHYtOaC+4395tqU2308JO/8AxJ1cvrDkUsaybqB0TdPmveU0rGd\nczgEj10XJRaHdAR/dJoTT8AfALFb3TEjcFmm8bUCgYBTUt2pZG/DL5gaO0OoXBpS\n8liOK4NzXDOURBWRIiFh9CwLkg3KXV697Vpo7Pvfntbz6yjy0l8+WrGdn7DMrKOJ\n1mJ0fYpE669seKxzgLPb2AiE0Nrl908Wn6oWIOfrpcODk/kzkqvN/7lsWekJcZUN\nmC3U4hrRdPMZs6xq+xw2cg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-bigquery@lateral-boulder-384606.iam.gserviceaccount.com",
+  "client_id": "108862981392218681146",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-bigquery%40lateral-boulder-384606.iam.gserviceaccount.com"
+}

@@ -59,6 +59,11 @@ class MySpider(scrapy.Spider):
             "no_of_days_in_release",
             "distributor",
         ]
+        with open("boxofficemojo_07-05-2023.csv", "w") as f:
+            writer = csv.writer(f)
+            writer.writerow(header)
+
+            for 
 
 
 if __name__ == "__main__":

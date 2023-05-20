@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lateral-boulder-384606",
+  "private_key_id": "6346d7951129373fa7e15bc987540d9eef1ce3f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCna/LH8EEAJv1j\nbIf+jzvyUWLxxm7loM5cgFcOuIpjkSGAq7lKL2S9SJyfob99nWjXsutLS0bw0vI3\njG6IO+5jI/L63KHd3mQmwVes02OH1jDhHwF5k2cMmuMjEQP71vO8xd0JepaSLFLa\nJ3/QGek9DaMb+5r8jIYh/uGt58l/6wtx3l5VSRZYkCnfgCB1SiFsa+lU0OPwU6CU\nFMnlVsRNB4BQcNe6SL2q+HdUpQLg7f4N9lY/rah+bjKgSKyoLBDnsaqBkin2MVHC\nMP5WtEAGkCyeZ1HIAW0oys7JMQ8ZP/e5pkPOiknC/TWFpP0BOcBpim59ytLUG+Z6\nTdKJNVvlAgMBAAECggEAEqH5MmbK+Scdtrm+teY/g/OqWSGeOHip1tIivjzsC/I8\nQgt6kubM5aMF6V8xRlvlLfJX7PiLA+TaN7PtnkRbPtXipig1bJGiYEzOwumAz36X\nUIqomZz90EGRq1aqtJXC6Ry1QaeOx+RecTCJsUGc+2I/566cHGTQTcrF15qvCokS\nDEPhqGQSplEOOCUFS6ASRR6jPAbtmsKabH2wltdrFG9y+Wnw9sCNx9zqMBpeTpT8\nYuEax7S6TK5hfAfwzH7N2uKnDE7uGV9LWp8Xw22jmdoQfrvmFrXxKWKMJi/KNX4b\ny8HlCgnNwyEz4I7qB/5C5xutQ3yhfMel/J18SNgeQQKBgQDnvuTV0vUOcMJyfEQH\nwVZ6i/nJ61GfXb/RWD/fzjFQQYebTudw+24RBBPL2yL2q3ApGOHOrtrO4raxzW1H\ntNldmHkasY0B43tKx5OvAXzr7RiGwfwHmka3cFdtn2LKnZpaRJDITlgW6GNgVY6l\nFGschLvzXW83SU5xPq6nIXoFwQKBgQC48aMLWw28YJaICpx86/THWE+Ay8awU8df\nICuI6QSNGgVFrlRu4+9oYSDGOBdTMFAgOxxi0v4t0ldjiXo0I7GqL5sM9TL0YT9u\nHDbleZTmc7MuLpsnIP8K26xsGNi0R4yvWoHz7RzE6zinR0/yH/z3FPe+adBj3sni\n1h4kXXpHJQKBgEiL9c8KLzTKD9UPGazj1VKfpx6S0AZ3rqi2W6iQP9fD69Ouq70u\nuJITGK9kdlmJ6Z6z71xoWI8TYeXfTSp5buJh7OdyVZYVxG7wc0cBzD1/B4KID4HB\nxgl+3Z+vmZmcJMnFVR2fiOwC67koj3MWJUHUO5I/2aURCcFhwgMH888BAoGACm+I\nFbHzmneQxuhiYCIoU79F7SySb4yqqVF1Y2pSmWuodIAbv44ZCjjA0q6DkmwdeVQc\ni+7/7LH7wGAXhy2kbsf05cxILcX3AE2TQ2uS3VYV/DshAho4ifJPTmIwiCupYpOm\n1Y7BmtLzBW1es3jem0qRmCr8WUZO+f++/6pOpgkCgYA+FLqQwMpQM3og2oxDSMio\nrpNSeKw5vGqp1+iMFVOXxPAfiVjUs/6gId3lycXf3o/VrSTBzZHpl1zEmUnq7ROa\nw5F0VRHnQWH8we7dDUtKeth/A4LyCHFQUryw1ESM0qcB9bBvwBqyyvRHDXoDU0cX\nED9HUpifmxEE3xL6rvroWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-bigquery-workshop-day-2@lateral-boulder-384606.iam.gserviceaccount.com",
+  "client_id": "101825350195905645559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-bigquery-workshop-day-2%40lateral-boulder-384606.iam.gserviceaccount.com"
+}

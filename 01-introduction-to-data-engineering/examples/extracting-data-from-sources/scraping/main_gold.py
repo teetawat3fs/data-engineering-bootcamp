@@ -28,6 +28,14 @@ class MySpider(scrapy.Spider):
 
         # Write to CSV
         # YOUR CODE HERE
+        with open("gold_07-05-2023.csv", "w") as f:
+            writer = csv.writer(f)
+            header = rows[0].css("td::text").extract()
+            writer.writerow(header)
+
+            for row in rows[1:]:
+                row = row.css("td::text").extract()
+                writer.writerow(row)
 
 
 if __name__ == "__main__":
